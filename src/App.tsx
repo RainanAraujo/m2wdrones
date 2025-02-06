@@ -12,6 +12,8 @@ import {
 import t50Especificacoes from "@/data/t50-especificacoes.json";
 
 import t25Especificacoes from "@/data/t25-especificacoes.json";
+
+import mavicEspecificacoes from "@/data/mavic-especificacoes.json";
 import {
   Sheet,
   SheetContent,
@@ -237,9 +239,34 @@ function App() {
                 >
                   Entre em contato
                 </a>
-                <button className="flex gap-2  items-center p-2 px-5 text-blue-500">
-                  Ver especificações <CaretRight />
-                </button>
+                <Sheet>
+                  <SheetTrigger asChild>
+                    <button className="flex gap-2  items-center p-2 px-5 text-blue-500">
+                      Ver especificações <CaretRight />
+                    </button>
+                  </SheetTrigger>
+                  <SheetContent className="overflow-y-auto">
+                    <SheetHeader>
+                      <SheetTitle>Especificações</SheetTitle>
+                    </SheetHeader>
+                    {mavicEspecificacoes.map((especificacao, i) => {
+                      return Object.entries(especificacao).map(
+                        ([categoriaNome, especificacoes]) => (
+                          <div key={i} className="flex flex-col gap-2 p-4 mb-2">
+                            <h1 className="text-xl mb-2">{categoriaNome}</h1>
+                            {especificacoes.map((item: string) =>
+                              Object.entries(item).map(([chave, valor], k) => (
+                                <div key={k} className="text-sm">
+                                  <strong>{chave}:</strong> {valor}
+                                </div>
+                              ))
+                            )}
+                          </div>
+                        )
+                      );
+                    })}
+                  </SheetContent>
+                </Sheet>
               </div>
             </div>
           </div>

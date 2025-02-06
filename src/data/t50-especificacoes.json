@@ -28,45 +28,111 @@
     ]
   },
   {
-    "Sistema de propulsão": [
+    "Sistema de propulsão - motores": [
       {
-        "Motores": "Dimensão do estator: 100 × 33 mm; KV: 48 rpm/V; Potência: 4000 W com rotor"
+        "Dimensões do estator": "100 × 33 mm"
       },
       {
-        "Hélices": "Material: Filamento de fibra de carbono de nylon; Dimensão: 54 pol. (1371,6 mm); Diâmetro de rotação da hélice: 1375 mm; Quantidade: 8"
+        "KV": "48 rpm/V"
+      },
+      {
+        "Potência": "4000 W com rotor"
       }
     ]
   },
   {
-    "Sistema de pulverização por atomização dupla": [
+    "Sistema de propulsão - hélices": [
       {
-        "Tanque de pulverização": "Material: Plástico (HDPE); Volume: 40 L; Carga útil operacional: 40 kg; Quantidade: 1"
+        "Material": "Filamento de fibra de carbono de nylon"
       },
       {
-        "Sprinklers": "Modelo: LX8060SZ; Quantidade: 2; Distância do bocal: 1570 mm (bocais traseiros); Tamanho da gota: 50 a 500 μm; Largura de pulverização efetiva: 4 a 11 m (a uma altura de 3 m acima das colheitas)"
+        "Dimensão": "54 pol. (1371,6 mm)"
       },
       {
-        "Bombas de fornecimento": "Tipo: Bomba com propulsor (acionamento magnético); Quantidade: 2; Vazão de bomba única: 0 a 12 L/min; Vazão máxima: 16 L/min (2 bicos); 24 L/min (4 bicos)"
+        "Diâmetro de rotação da hélice": "1375 mm"
+      },
+      {
+        "Quantidade": "8"
       }
     ]
   },
   {
-    "Sistema de dispersão": [
+    "Sistema de pulverização por atomização dupla - tanque de pulverização": [
       {
-        "T50": "Diâmetro do material compatível: Grânulos secos de 0,5 a 5 mm; Volume do tanque de dispersão: 75 L; Carga interna do tanque de dispersão: 50 kg; Largura de dispersão: 8 m"
+        "Material": "Plástico (HDPE)"
+      },
+      {
+        "Volume": "40 L"
+      },
+      {
+        "Carga útil operacional": "40 kg"
+      },
+      {
+        "Quantidade": "1"
+      }
+    ]
+  },
+  {
+    "Sistema de pulverização por atomização dupla - sprinklers": [
+      {
+        "Modelo": "LX8060SZ"
+      },
+      {
+        "Quantidade": "2"
+      },
+      {
+        "Distância do bocal": "1570 mm (bocais traseiros)"
+      },
+      {
+        "Tamanho da gota": "50 a 500 μm"
+      },
+      {
+        "Largura de pulverização efetiva": "4 a 11 m (a uma altura de 3 m acima das colheitas)"
+      }
+    ]
+  },
+  {
+    "Sistema de pulverização por atomização dupla - bombas de fornecimento": [
+      {
+        "Tipo": "Bomba com propulsor (acionamento magnético)"
+      },
+      {
+        "Quantidade": "2"
+      },
+      {
+        "Vazão de bomba única": "0 a 12 L/min"
+      },
+      {
+        "Vazão máxima": "16 L/min (2 bicos); 24 L/min (4 bicos)"
+      }
+    ]
+  },
+  {
+    "Sistema de dispersão T50": [
+      {
+        "Diâmetro do material compatível": "Grânulos secos de 0,5 a 5 mm"
+      },
+      {
+        "Volume do tanque de dispersão": "75 L"
+      },
+      {
+        "Carga interna do tanque de dispersão": "50 kg"
+      },
+      {
+        "Largura de dispersão": "8 m"
       }
     ]
   },
   {
     "Sistema de radar de matriz de fase": [
       {
-        "Modelo": "RD241608RF (radar de matriz de fase dianteiro), RD241608RB (radar de matriz de fase traseiro)"
+        "Modelo": "RD241608RF (radar de matriz de fase dianteiro); RD241608RB (radar de matriz de fase traseiro)"
       },
       {
         "Acompanhamento de terreno": "Inclinação máxima no modo Montanha: 20°; Faixa de detecção de altitude: 1 a 50 m; Faixa operacional de estabilização: 1,5 a 30 m"
       },
       {
-        "Detecção de obstáculos": "Alcance: 1 a 50 m; FOV: Radar dianteiro: horizontal 360°, vertical ±45°, para cima ±45° (cone); Radar traseiro: vertical 360°, horizontal ±45°; Sentido de detecção: Omnidirecional 360°"
+        "Detecção de obstáculos": "Alcance de detecção de obstáculos (multidirecional): 1 a 50 m; FOV: Radar de matriz de fase dianteiro: horizontal 360°, vertical ±45°, para cima ±45° (cone); Radar de matriz de fase traseiro: vertical 360°, horizontal ±45°"
       }
     ]
   },
@@ -79,7 +145,7 @@
         "Velocidade eficaz de detecção": "≤10 m/s"
       },
       {
-        "FOV": "Horizontal: 90°, Vertical: 106°"
+        "FOV": "Horizontal: 90°, vertical: 106°"
       },
       {
         "Ambiente operacional": "Luz adequada e arredores visíveis"
@@ -95,22 +161,34 @@
         "Frequência de operação": "2,4000 a 2,4835 GHz; 5,725 a 5,850 GHz"
       },
       {
-        "Distância máxima de transmissão": "7 km (FCC), 5 km (SRRC), 4 km (MIC/CE)"
+        "Distância máxima de transmissão": "7 km (FCC), 5 km (SRRC), 4 km (MIC/CE); (sem obstruções, sem interferência e a uma altitude de 2,5 m)"
       },
       {
         "Protocolo Wi-Fi": "Wi-Fi 6"
       },
       {
+        "Frequência de operação do Wi-Fi": "2,4000 a 2,4835 GHz; 5,150 a 5,250 GHz; 5,725 a 5,850 GHz"
+      },
+      {
         "Protocolo Bluetooth": "Bluetooth 5.1"
+      },
+      {
+        "Frequência de operação do Bluetooth": "2,4000 a 2,4835 GHz"
       },
       {
         "GNSS": "GPS+Galileo+BeiDou"
       },
       {
-        "Tela": "LCD sensível ao toque de 7,02 polegadas, 1920×1200 pixels, alta luminosidade 1.200 cd/m²"
+        "Tela": "Tela LCD sensível ao toque de 7,02 polegadas, com resolução de 1920×1200 pixels e alta luminosidade de 1.200 cd/m²"
       },
       {
-        "Temperatura de operação": "-20 °C a 50 °C"
+        "Temperatura de operação": "-20 °C a 50 °C (-4 °F a 122 °F)"
+      },
+      {
+        "Faixa de temperatura de armazenamento": "Menos de um mês: -30 °C a 45 °C (-22 °F a 113 °F); Um a três meses: -30 °C a 35 °C (-22 °F a 95 °F); Seis meses a um ano: -30 °C a 30 °C (-22 °F a 86 °F)"
+      },
+      {
+        "Temperatura de carregamento": "5 °C a 40 °C (41 °F a 104 °F)"
       },
       {
         "Duração da bateria interna": "3 horas e 18 minutos"
@@ -119,14 +197,17 @@
         "Duração da bateria externa": "2 horas e 42 minutos"
       },
       {
-        "Tempo de carregamento": "2 horas para bateria interna ou interna + externa (controle remoto desligado, carregador DJI padrão)"
+        "Tipo de carregamento": "É recomendado o uso de um carregador USB-C com certificação local com potência nominal máxima de 65 W e tensão máxima de 20 V, como o carregador portátil 65 W DJI."
+      },
+      {
+        "Tempo de carregamento": "2 horas para bateria interna ou bateria interna e externa (quando o controle remoto está desligado e usando um carregador padrão DJI)"
       }
     ]
   },
   {
-    "Bateria de voo inteligente": [
+    "Bateria de voo inteligente DB1560": [
       {
-        "Modelo": "DB1560 (BAX702-30000mAh-52,22V)"
+        "Modelo": "Bateria de voo inteligente DB1560 (BAX702-30000mAh-52,22V)"
       },
       {
         "Peso": "Aprox. 12,1 kg"
@@ -140,24 +221,24 @@
     ]
   },
   {
-    "Gerador Inversor Multifuncional": [
+    "Gerador Inversor Multifuncional D12000i": [
       {
-        "Modelo": "D12000i"
+        "Canal de saída": "1. Saída de carregamento CC 42-59,92 V/9000 W; 2. Fonte de alimentação para dissipador de calor resfriado a ar de 12 V/6 A; 3. Saída CA 230 V/1500 W ou 120 V/750 W"
       },
       {
-        "Saídas": "Carregamento CC 42-59,92 V/9000 W; Fonte de alimentação para dissipador de calor 12 V/6 A; Saída CA 230 V/1500 W ou 120 V/750 W"
-      },
-      {
-        "Tempo de carregamento da bateria": "9 a 12 minutos (bateria T40)"
+        "Tempo de carregamento da bateria": "Carregar totalmente uma bateria (T40 bateria) leva de 9 a 12 minutos"
       },
       {
         "Capacidade do tanque de combustível": "30 L"
       },
       {
-        "Método de partida": "Interruptor de partida com um botão"
+        "Método de partida": "Uso do interruptor de partida com um botão para ligar o gerador"
       },
       {
-        "Tipo de combustível": "Gasolina sem chumbo com RON ≥91 (AKI ≥87) e teor de álcool <10%"
+        "Potência máxima do motor": "12000 W"
+      },
+      {
+        "Tipo de combustível": "Gasolina sem chumbo com RON ≥91 (AKI ≥87) e teor de álcool inferior a 10% (*Brasil: gasolina sem chumbo com RON ≥ 91 e teor de álcool de 27%)"
       },
       {
         "Consumo de combustível de referência": "500 ml/kWh"
@@ -168,9 +249,9 @@
     ]
   },
   {
-    "Carregador Inteligente": [
+    "Carregador inteligente C10000": [
       {
-        "Modelo": "C10000 (CSX702-9500)"
+        "Número do modelo": "CSX702-9500"
       },
       {
         "Dimensões": "400 x 266 x 120 mm"
@@ -179,13 +260,53 @@
         "Peso": "Aprox. 11,4 kg"
       },
       {
-        "Entrada/Saída": "Entrada: 220-240 VCA, 50/60 Hz, 24 A MÁX.; Saída: 59,92 VCC, 175 A MÁX., 9000 W MÁX."
+        "Entrada/saída": "Entrada (principal): 220 a 240 VCA, 50/60 Hz, 24 A MÁX.; Entrada (Auxiliar): 220 a 240 VCA, 50/60 Hz, 24 A MÁX.; Saída: 59,92 VCC MÁX., 175 A MÁX., 9000 W MÁX.; Entrada (principal): 100 a 120 VCA, 50/60 Hz, 16 A MÁX.; Entrada (Auxiliar): 100 a 120 VCA, 50/60 Hz, 16 A MÁX.; Saída: 59,92 VCC MÁX., 60 A MÁX., 3000 W MÁX."
       },
       {
-        "Tempo de carregamento": "9 a 12 minutos (bateria DB1560)"
+        "Tempo de carregamento": "Carrega totalmente uma bateria em 9 a 12 minutos (bateria de voo inteligente DB1560)"
       },
       {
         "Funções de proteção": "Proteção contra sobretensão, sobrecarga, subtensão e sobretemperatura"
+      },
+      {
+        "Segurança de carregamento": "Proteção do fio CA, proteção do fio de alimentação e proteção do conector de carga"
+      }
+    ]
+  },
+  {
+    "Relé": [
+      {
+        "Modelo": "RL01-65"
+      },
+      {
+        "Dimensões": "120×110×100 mm"
+      },
+      {
+        "Peso": "≤575 g"
+      },
+      {
+        "Tensão de entrada": "9 V 3 A/12 V 2,5 A/15 V 2 A"
+      },
+      {
+        "Consumo de energia": "9 W (SRRC), 12 W (FCC)"
+      },
+      {
+        "Capacidade": "6500 mAh"
+      },
+      {
+        "Tempo de operação": "4 horas"
+      },
+      {
+        "Frequência de operação": "2,4000 a 2,4835 GHz; 5,725 a 5,850 GHz"
+      },
+      {
+        "Distância máxima de transmissão": "5 km (SRRC), 4 km (MIC/KCC/CE), 7 km (FCC); (desobstruído, sem interferência e a uma altitude de voo de 2,5 m)"
+      },
+      {
+        "Tempo de carregamento": "2 horas e 20 minutos (ao usar um carregador DJI padrão)"
+      },
+      {
+        "Classificação IP": "IP55"
       }
     ]
   }

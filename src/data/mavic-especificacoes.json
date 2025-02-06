@@ -1,0 +1,321 @@
+[
+  {
+    "AERONAVE": [
+      {
+        "Peso líquido (com hélice e módulo RTK)": "951 g"
+      },
+      {
+        "Peso máximo de decolagem": "1050 g"
+      },
+      {
+        "Dimensões (dobrada/desdobrada)": "Dobrada (sem hélice): 223 × 96,3 × 122,2 mm; Expandida (sem hélice): 347,5 × 283 × 139,6 mm"
+      },
+      {
+        "Comprimento diagonal": "380,1 mm"
+      },
+      {
+        "Velocidade máxima de ascensão": "6 m/s (modo normal); 8 m/s (modo esportivo)"
+      },
+      {
+        "Velocidade máxima de descensão": "6 m/s (modo normal); 6 m/s (modo esportivo)"
+      },
+      {
+        "Velocidade máxima (próximo ao nível do mar, sem vento)": "15 m/s (modo normal); Voando para frente: 21 m/s, voando para os lados: 20 m/s, voando para trás: 19 m/s (modo esportivo)"
+      },
+      {
+        "Resistência máxima ao vento": "12 m/s"
+      },
+      {
+        "Altitude máxima de decolagem acima do nível do mar": "6000 m (sem carga)"
+      },
+      {
+        "Tempo máximo de voo (sem vento)": "43 minutos"
+      },
+      {
+        "Duração máxima de voo estacionário (sem vento)": "37 minutos"
+      },
+      {
+        "Distância máxima de voo": "32 km"
+      },
+      {
+        "Ângulo de inclinação máximo": "30°/s (modo Normal); 35° (modo Esportivo)"
+      },
+      {
+        "Velocidade angular máxima": "200°/s"
+      },
+      {
+        "GNSS": "GPS + Galileo + BeiDou + GLONASS (GLONASS é compatível apenas quando o módulo RTK estiver habilitado)"
+      },
+      {
+        "Alcance de precisão em voo estacionário": "Vertical: ± 0,1 m (posicionamento visual habilitado); ± 0,5 m (posicionamento GNSS habilitado); ± 0,1 m (D-RTK habilitado); Horizontal: ± 0,3 m (posicionamento visual habilitado); ± 0,5 m (posicionamento com alta precisão habilitado); ± 0,1 m (RTK habilitado)"
+      },
+      {
+        "Temperatura de funcionamento": "-10° a 40° C"
+      },
+      {
+        "Armazenamento interno": "N/A"
+      },
+      {
+        "Número do modelo do motor": "2008"
+      },
+      {
+        "Número do modelo de hélice": "9453F Edição Enterprise"
+      },
+      {
+        "Sensor de luz": "Módulo integrado"
+      }
+    ]
+  },
+  {
+    "CÂMERA RGB": [
+      {
+        "Sensor de imagens": "Pixels efetivos CMOS de 4/3: 20 MP"
+      },
+      {
+        "Lente": "Campo de visão (FOV): 84°; Distância focal equivalente: 24 mm; Abertura: f/2.8 a f/11; Foco: 1 m a ∞"
+      },
+      {
+        "Alcance ISO": "100 a 6.400"
+      },
+      {
+        "Velocidade do obturador": "Obturador eletrônico: 8-1/8000 s; Obturador mecânico: 8-1/2000 s"
+      },
+      {
+        "Dimensões máximas da imagem": "5280 × 3956"
+      },
+      {
+        "Modo de foto": "Disparo único: 20 MP; Timelapse: 20 MP; JPEG: 0,7/1/2/3/5/7/10/15/20/30/60 s; JPEG + RAW: 3/5/7/10/15/20/30/60 s; Panorâmica: 20 MP (material original)"
+      },
+      {
+        "Resolução de vídeo HDR": "H.264: 4K: 3840×2160 a 30 fps; FHD: 1920×1080 a 30 fps"
+      },
+      {
+        "Taxa de bits máxima do vídeo": "4K: 130 Mbps; FHD: 70 Mbps"
+      },
+      {
+        "Sistema de arquivo suportado": "exFAT"
+      },
+      {
+        "Formato de imagem": "JPEG/DNG (RAW)"
+      },
+      {
+        "Formato de vídeo": "MP4 (MPEG-4 AVC/H.264)"
+      }
+    ]
+  },
+  {
+    "CÂMERA MULTIESPECTRAL": [
+      {
+        "Sensor de imagens": "CMOS de 1/2,8 polegadas, píxeis efetivos: 5 MP"
+      },
+      {
+        "Lente": "FOV: 73,91° (61,2° x 48,10°); Distância focal equivalente: 25 mm; Abertura: f/2,0; Foco: Foco fixo"
+      },
+      {
+        "Faixa de câmera multiespectral": "Verde (G): 560 ± 16 nm; Vermelho (R): 650 ± 16 nm; Borda Vermelha (RE): 730 ± 16 nm; Infravermelho próximo (NIR): 860 ± 26 nm"
+      },
+      {
+        "Alcance do ganho": "1x a 32x"
+      },
+      {
+        "Velocidade do obturador": "Obturador eletrônico: 1/30 ~ 1/12.800 s"
+      },
+      {
+        "Dimensões máximas da imagem": "2592 × 1944"
+      },
+      {
+        "Formato de imagem": "TIFF"
+      },
+      {
+        "Formato de vídeo": "MP4 (MPEG-4 AVC/H.264)"
+      },
+      {
+        "Modo de foto": "Disparo único: 5 MP; Timelapse: 5 MP; TIFF: 2/3/5/7/10/15/20/30/60 s"
+      },
+      {
+        "Resolução de vídeo HDR": "H.264: FHD: 1920 x 1080 a 30 fps"
+      },
+      {
+        "Conteúdo do vídeo": "NDVI/GNDVI/NDRE"
+      },
+      {
+        "Taxa de bits máxima do vídeo": "Transmissão: 60 Mbps"
+      }
+    ]
+  },
+  {
+    "ESTABILIZADOR": [
+      {
+        "Sistema de estabilização": "Estabilização mecânica triaxial (inclinação, rotação, giro)"
+      },
+      {
+        "Alcance mecânico": "Inclinação: -135° a 45°; Rotação: -45° a 45°; Giro: -27° a 27°"
+      },
+      {
+        "Alcance controlável": "Inclinação: -90° a 35°; Giro: Incontrolável"
+      },
+      {
+        "Velocidade máxima controlável (inclinação)": "100°/s"
+      },
+      {
+        "Alcance da vibração angular": "± 0,007°"
+      }
+    ]
+  },
+  {
+    "SISTEMA DE DETECÇÃO": [
+      {
+        "Tipo de sistema de detecção": "Sistema visual binocular omnidirecional, com sensor infravermelho na parte inferior da aeronave"
+      },
+      {
+        "Dianteira": "Alcance de medição de distância: 0,5 m a 20 m; Alcance de detecção: 0,5 m a 200 m; Velocidade de detecção de obstáculos efetiva: Velocidade de voo ≤ 15 m/s; FOV: Horizontal 90°, vertical 103°"
+      },
+      {
+        "Traseira": "Alcance de medição de distância: 0,5 m a 16 m; Velocidade de detecção de obstáculos efetiva: Velocidade de voo ≤ 12 m/s; FOV: Horizontal 90°, vertical 103°"
+      },
+      {
+        "Lateral": "Alcance de medição de distância: 0,5 m a 25 m; Velocidade de detecção de obstáculos efetiva: Velocidade de voo ≤ 15 m/s; FOV: Horizontal 90°, vertical 85°"
+      },
+      {
+        "Superior": "Alcance de medição de distância: 0,2 m a 10 m; Velocidade de detecção de obstáculos efetiva: Velocidade de voo ≤ 6 m/s; FOV: Frontal e traseira 100°, esquerda e direita 90°"
+      },
+      {
+        "Inferior": "Alcance de medição de distância: 0,3 m a 18 m; Velocidade de detecção de obstáculos efetiva: Velocidade de voo ≤ 6 m/s; FOV: Frontal e traseira 130°, esquerda e direita 160°"
+      },
+      {
+        "Ambiente operacional": "Frontal, Traseira, Esquerda, Direita, Acima: Superfícies com padrões nítidos e iluminação adequada (> 15 lux, ambientes com exposição normal à luz fluorescente interna); Abaixo: Superfícies com material de refletividade difusa e refletividade > 20% (como paredes, árvores, pessoas etc.); iluminação adequada (> 15 lux, ambientes com exposição normal à luz fluorescente interna)"
+      }
+    ]
+  },
+  {
+    "TRANSMISSÃO DE VÍDEO": [
+      {
+        "Sistema de transmissão de vídeo": "Edição da Indústria de Transmissão de Imagem DJI O3"
+      },
+      {
+        "Qualidade da transmissão ao vivo": "Controle remoto (CR): 1.080 p/30 fps"
+      },
+      {
+        "Faixa operacional": "2,400 a 2,4835 GHz; 5,725 a 5,850 GHz"
+      },
+      {
+        "Distância máxima efetiva do sinal (sem obstrução e sem interferência)": "FCC: 15 km; CE: 8 km; SRRC: 8 km; MIC: 8 km"
+      },
+      {
+        "Distância máxima de transmissão (com obstruções)": "Forte interferência (paisagens urbanas, áreas residenciais etc.): 1,5 a 3 km (FCC/CE/SRRC/MIC); Interferência média (paisagens suburbanas, parques urbanos etc.): 3 a 9 km (FCC), 3 a 6 km (CE/SRRC/MIC); Interferência fraca (campos remotos, fazendas abertas etc.): 9 a 15 km (FCC), 6 a 8 km (CE/SRRC/MIC)"
+      },
+      {
+        "Velocidade máxima de download": "15 MB/s (com o CR Pro DJI Industry Edition)"
+      },
+      {
+        "Latência (dependendo das condições ambientais e do dispositivo móvel)": "Aproximadamente 200 milissegundos"
+      },
+      {
+        "Antenas": "4 antenas, 2 transmissoras e 4 receptoras"
+      },
+      {
+        "Potência do transmissor (EIRP)": "2,4 GHz: < 33 dBm (FCC), < 20 dBm (CE/SRRC/MIC); 5,8 GHz: < 33 dBm (FCC), < 30 dBm (SRRC), < 14 dBm (CE)"
+      },
+      {
+        "Outro": "Compatível com o módulo para celulares DJI"
+      }
+    ]
+  },
+  {
+    "CR PRO DJI (EDIÇÃO ENTERPRISE)": [
+      {
+        "Sistema de transmissão de imagem": "Edição da Indústria de Transmissão de Imagem DJI O3"
+      },
+      {
+        "Distância máxima efetiva do sinal (sem obstrução e sem interferência)": "FCC: 15 km; CE: 8 km; SRRC: 8 km; MIC: 8 km"
+      },
+      {
+        "Faixa operacional da transmissão de imagem": "2,400 a 2,4835 GHz; 5,725 a 5,850 GHz"
+      },
+      {
+        "Antenas": "4 antenas, 2 transmissoras e 4 receptoras"
+      },
+      {
+        "Faixa operacional de transmissão de imagem e potência do transmissor (EIRP)": "2,4 GHz: <33 dBm (FCC); <20 dBm (CE/SRRC/MIC); 5,8 GHz: <33 dBm (FCC); <14 dBm (CE); <23 dBm (SRRC)"
+      },
+      {
+        "Protocolo Wi-Fi": "802.11 a/b/g/n/ac/ax; Compatível com Wi-Fi MIMO 2 x 2"
+      },
+      {
+        "Banda operacional Wi-Fi": "2,400 a 2,4835 GHz; 5,150 a 5,250 GHz; 5,725 a 5,850 GHz"
+      },
+      {
+        "Banda de operação Wi-Fi e potência do transmissor (EIRP)": "2,4 GHz: <26 dBm (FCC); <20 dBm (CE/SRRC/MIC); 5,1 GHz: <26 dBm (FCC); <23 dBm (CE/SRRC/MIC); 5,8 GHz: <26 dBm (FCC/SRRC); <14 dBm (CE)"
+      },
+      {
+        "Protocolo Bluetooth": "Bluetooth 5.1"
+      },
+      {
+        "Banda operacional Bluetooth": "2,400 a 2,4835 GHz"
+      },
+      {
+        "Potência do transmissor Bluetooth (EIRP)": "< 10 dBm"
+      },
+      {
+        "Resolução da tela": "1.920 × 1.080"
+      },
+      {
+        "Tamanho da tela": "5,5 polegadas"
+      },
+      {
+        "Taxa de enquadramento da tela": "60 fps"
+      },
+      {
+        "Brilho da tela": "1.000 nits"
+      },
+      {
+        "Tela sensível ao toque": "Multitoque de 10 pontos"
+      },
+      {
+        "Bateria": "Bateria de íons de lítio (5000 mAh, 7,2 V)"
+      },
+      {
+        "Tipo de carregamento": "Recomenda-se o carregador de mesa DJI (100 W) ou USB com especificações de 12 V ou 15 V"
+      },
+      {
+        "Potência nominal": "12 Watts"
+      },
+      {
+        "Capacidade de armazenamento": "Memória da estrutura (ROM): 64 GB; Compatível com o uso do cartão microSD para aumentar a capacidade de armazenamento"
+      },
+      {
+        "Tempo de carregamento": "Aprox. 1 hora e 30 minutos (medido ao usar apenas o carregador de mesa padrão DJI - 100 W - para carregar o controle remoto (CR) ou ao usar um carregador USB de 15 V); Aproximadamente 2 horas (medido usando um carregador USB de 12 V); Aproximadamente 2 horas e 50 minutos (medido usando o carregador de mesa DJI padrão - 100 W - para carregar a aeronave e o controle remoto (CR) ao mesmo tempo)"
+      },
+      {
+        "Tempo de operação": "Aprox. 3 horas"
+      },
+      {
+        "Entrada de saída de vídeo": "Entrada mini HDMI"
+      },
+      {
+        "Temperatura de funcionamento": "-10 °C a 40 °C"
+      },
+      {
+        "Alcance da temperatura de armazenamento": "< 1 mês: -30° a 60 °C; Um a três meses: -30° a 45° C; Três a seis meses: -30° a 35 °C; Mais de seis meses: -30 °C a 25 °C"
+      },
+      {
+        "Temperatura de carregamento": "5 °C a 40 °C"
+      },
+      {
+        "Aeronave DJI compatível": "DJI Mavic 3E; DJI Mavic 3T; DJI MAVIC 3M"
+      },
+      {
+        "GNSS": "GPS + Galileu + GLONASS"
+      },
+      {
+        "Dimensões": "A antena está dobrada e não há pinos de controle instalados: 183,27 × 137,41 × 47,6 mm; Antena desdobrada e pinos de controle instalados: 183,27 × 203,35 × 59,84 mm"
+      },
+      {
+        "Peso": "Aprox. 680 g"
+      },
+      {
+        "Número do modelo": "RM510B"
+      }
+    ]
+  }
+]
