@@ -208,7 +208,7 @@ function App() {
           ))}
         </div>
       </section>
-      <section id="products" className="py-20 m-auto bg-[#F5F8F9]">
+      <section id="products" className="py-20 m-auto bg-[#F5F8F9] ">
         <div className="flex flex-col items-center mb-10">
           <h3 className="text-5xl font-semibold text-center mb-6">Produtos</h3>
           <hr className="border border-green-primary w-10 mb-2" />
@@ -217,7 +217,7 @@ function App() {
           </span>
         </div>
 
-        <div className="flex flex-col gap-8 max-w-7xl m-auto p-10">
+        <div className="flex flex-col gap-8 max-w-7xl m-auto p-10 px-5 ">
           <div className="p-20 grid grid-cols-[1fr_1fr] justify-items-center rounded-md bg-white items-center max-md:flex max-md:flex-wrap max-md:items-center max-md:text-center  max-md:p-10">
             <img src="/mavic.svg" alt="simbol" />
             <div className="flex flex-col gap-2">
@@ -396,6 +396,7 @@ function App() {
             <EnvelopeSimple className="text-green-primary" size={48} />
             <div className="">
               <span className="text-xs text-gray-400">Email</span>
+
               <p className="font-semibold">m2wdrones@gmail.com</p>
             </div>
           </a>
@@ -406,7 +407,7 @@ function App() {
         className="bg-[#F5F8F9] grid grid-cols-[1fr_1fr] max-md:flex max-md:text-center"
       >
         <div className="bg-[url(/fachada.svg)] bg-cover" />
-        <div className="p-32 flex flex-col gap-4 max-md:px-10">
+        <div className="p-32 flex flex-col gap-4 max-md:px-7">
           <h1 className="text-5xl font-semibold  mb-6 ">Sobre nós</h1>
           <p className="text-3xl text-green-primary">
             Somos a M2W Drones, representantes autorizados da DJI Agriculture no
