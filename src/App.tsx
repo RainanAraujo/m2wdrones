@@ -135,7 +135,7 @@ function App() {
             </Sheet>
           </div>
         </nav>
-        <main className=" bg-[url(/back_main_section.svg)] bg-cover text-white">
+        <main className=" bg-[url(/back_main_section.svg)] bg-cover text-white max-md:bg-[position:bottom_0px_right_-80px] ">
           <div className="flex items-start flex-col justify-end max-w-7xl w-full p-10 mx-auto h-full ">
             <div className="flex flex-col h-full justify-center  gap-2 max-md:items-center  max-md:text-center max-md:w-full">
               <h1 className="text-5xl ">
