@@ -1,0 +1,313 @@
+[
+  {
+    "Aeronave": [
+      {
+        "Peso": "Excluindo bateria: 25,4 kg; Incluindo bateria: 32 kg"
+      },
+      {
+        "Peso máximo de decolagem": "Pulverização: 52 kg (ao nível do mar); Dispersão: 58 kg (ao nível do mar)"
+      },
+      {
+        "Distância diagonal máxima entre eixos": "1925 mm"
+      },
+      {
+        "Dimensões": "2585 × 2675 × 780 mm (braços e hélices desdobrados); 1475 × 1540 × 780 mm (braços desdobrados e hélices dobradas); 1050 × 690 × 820 mm (braços e hélices dobrados)"
+      },
+      {
+        "Alcance de precisão em voo estacionário": "D-RTK habilitado: Horizontal ±10 cm, Vertical ±10 cm; D-RTK desabilitado: Horizontal ±60 cm, Vertical ±30 cm (módulo de radar ativado: ±10 cm)"
+      },
+      {
+        "Frequência de operação RTK/GNSS": "RTK: GPS L1/L2, GLONASS F1/F2, BeiDou B1I/B2I/B3I, Galileo E1/E5b, QZSS L1/L2; GNSS: GPS L1, BeiDou B1I, GLONASS F1, Galileo E1, QZSS L1"
+      },
+      {
+        "Raio máximo de voo configurável": "2000 m"
+      },
+      {
+        "Resistência máxima ao vento": "6 m/s"
+      }
+    ]
+  },
+  {
+    "Sistema de propulsão - motores": [
+      {
+        "Dimensões do estator": "100 × 28 mm"
+      },
+      {
+        "KV": "59 rpm/V"
+      },
+      {
+        "Potência": "4600 W/rotor"
+      }
+    ]
+  },
+  {
+    "Sistema de propulsão - hélices": [
+      {
+        "Material": "Filamento de fibra de carbono de nylon"
+      },
+      {
+        "Dimensão": "50 polegadas"
+      },
+      {
+        "Diâmetro de rotação da hélice": "1270 mm"
+      },
+      {
+        "Quantidade": "4"
+      }
+    ]
+  },
+  {
+    "Sistema de pulverização por atomização dupla - tanque de pulverização": [
+      {
+        "Material": "Plástico (HDPE)"
+      },
+      {
+        "Volume": "20 L"
+      },
+      {
+        "Carga útil operacional": "20 kg"
+      },
+      {
+        "Quantidade": "1"
+      }
+    ]
+  },
+  {
+    "Sistema de pulverização por atomização dupla - sprinklers": [
+      {
+        "Modelo": "LX8060SZ"
+      },
+      {
+        "Quantidade": "2"
+      },
+      {
+        "Distância do bocal": "1368 mm (bocais traseiros)"
+      },
+      {
+        "Tamanho da gota": "50 a 500 μm"
+      },
+      {
+        "Largura de pulverização efetiva": "4 a 7 m (a uma altura de 3 m acima das colheitas)"
+      }
+    ]
+  },
+  {
+    "Sistema de pulverização por atomização dupla - bombas de fornecimento": [
+      {
+        "Tipo": "Bomba com propulsor (acionamento magnético)"
+      },
+      {
+        "Quantidade": "2"
+      },
+      {
+        "Vazão de bomba única": "0 a 12 L/min"
+      },
+      {
+        "Vazão máxima": "16 L/min (2 sprinklers); 24 L/min (4 sprinklers)"
+      }
+    ]
+  },
+  {
+    "Sistema de dispersão DJI AGRAS T25": [
+      {
+        "Diâmetro do material compatível": "0,5 a 5 mm"
+      },
+      {
+        "Volume do tanque de dispersão": "35 L"
+      },
+      {
+        "Carga interna do tanque de dispersão": "25 kg"
+      },
+      {
+        "Largura efetiva de pulverização": "Varia conforme o diâmetro do material, velocidade de rotação do disco giratório, tamanho da saída da tremonha e altitude de voo. Para um desempenho ideal, recomenda-se ajustar as variáveis correspondentes para atingir uma faixa de dispersão entre 5 e 8 metros."
+      }
+    ]
+  },
+  {
+    "Sistema de radar de matriz de fase": [
+      {
+        "Modelo": "RD241608RF (radar de matriz de fase dianteiro); RD241608RB (radar de matriz de fase traseiro)"
+      },
+      {
+        "Acompanhamento de terreno": "Inclinação máxima no modo Montanha: 20°; Alcance de detecção de altitude: 1 a 50 m; Alcance operacional para estabilização: 1,5 a 30 m"
+      },
+      {
+        "Detecção de obstáculos": "Alcance de detecção de obstáculos (omnidirecional): 1 a 50 m; FOV: Radar de matriz de fase dianteiro: horizontal 360°, vertical ±45°, para cima ±45° (cone); Radar de matriz de fase traseiro: vertical 360°, horizontal ±45°"
+      }
+    ]
+  },
+  {
+    "Sistema visual binocular": [
+      {
+        "Alcance de medição": "0,5 a 29 m"
+      },
+      {
+        "Velocidade eficaz para detecção": "≤10 m/s"
+      },
+      {
+        "FOV": "Horizontal: 90°, vertical: 106°"
+      },
+      {
+        "Ambiente operacional": "Luz adequada e arredores visíveis"
+      }
+    ]
+  },
+  {
+    "Controle remoto": [
+      {
+        "Modelo": "RM700B"
+      },
+      {
+        "Frequência de funcionamento": "2,4000-2,4835 GHz, 5,725-5,850 GHz"
+      },
+      {
+        "Distância máxima de transmissão": "7 km (FCC), 5 km (SRRC), 4 km (MIC/CE)"
+      },
+      {
+        "Protocolo Wi-Fi": "Wi-Fi 6"
+      },
+      {
+        "Frequência de funcionamento do Wi-Fi": "2,4000 a 2,4835 GHz; 5,150 a 5,250 GHz; 5,725 a 5,850 GHz"
+      },
+      {
+        "Protocolo Bluetooth": "Bluetooth 5.1"
+      },
+      {
+        "Frequência de funcionamento do Bluetooth": "2,4000 a 2,4835 GHz"
+      },
+      {
+        "GNSS": "GPS+Galileo+BeiDou"
+      },
+      {
+        "Tela": "Tela LCD sensível ao toque de 7,02 polegadas, com resolução de 1920×1200 pixels e alta luminosidade de 1.200 cd/m²"
+      },
+      {
+        "Temperatura de funcionamento": "-20° a 50° C (-4° a 122° F)"
+      },
+      {
+        "Alcance da temperatura de armazenamento": "Menos de um mês: -30° a 45° C (-22° a 113° F); Um a três meses: -30° a 35° C (-22° a 95° F); Seis meses a um ano: -30° a 30° C (-22° a 86° F)"
+      },
+      {
+        "Temperatura de carregamento": "5 a 40 °C (41 a 104 °F)"
+      },
+      {
+        "Duração da bateria interna": "3 horas e 18 minutos"
+      },
+      {
+        "Duração da bateria externa": "2 horas e 42 minutos"
+      },
+      {
+        "Tipo de carregamento": "É recomendado o uso de um carregador USB-C com certificação local com potência nominal máxima de 65 W e tensão máxima de 20 V, como o carregador portátil 65 W DJI."
+      },
+      {
+        "Tempo de carregamento": "Duas horas para bateria interna ou bateria interna e externa (quando o controle remoto está desligado e usando um carregador padrão DJI)"
+      }
+    ]
+  },
+  {
+    "Bateria de voo inteligente DB800": [
+      {
+        "Modelo": "Bateria de voo inteligente DB800 (BAX702-30000 mAh-52,22 V)"
+      },
+      {
+        "Peso": "Aprox. 6,6 kg"
+      },
+      {
+        "Capacidade": "15000 mAh"
+      },
+      {
+        "Tensão nominal": "52,22 V"
+      }
+    ]
+  },
+  {
+    "Gerador inversor multifuncional D6000i": [
+      {
+        "Canal de saída": "1. Saída de carregamento CC 42-59,92 V/9000 W; 2. Fonte de alimentação para dissipador de calor resfriado a ar de 12 V/6 A; 3. Saída CA 230 V/1500 W ou 120 V/750 W"
+      },
+      {
+        "Tempo de carregamento da bateria": "Carregar totalmente uma bateria (DB800) leva de 9 a 12 minutos"
+      },
+      {
+        "Capacidade do tanque de combustível": "20 L"
+      },
+      {
+        "Método de partida": "Ligar o gerador através do interruptor de partida com um botão"
+      },
+      {
+        "Potência máxima do motor": "6000 W"
+      },
+      {
+        "Tipo de combustível": "Gasolina sem chumbo com RON ≥91 (AKI ≥87) e teor de álcool inferior a 10% (Brasil: gasolina sem chumbo com RON ≥ 91 e teor de álcool de 27%)"
+      },
+      {
+        "Consumo de combustível de referência": "600 ml/kWh"
+      },
+      {
+        "Modelo do óleo do motor": "SJ10W-40"
+      }
+    ]
+  },
+  {
+    "Carregador inteligente C8000": [
+      {
+        "Número do modelo": "CSX702-9500"
+      },
+      {
+        "Dimensões": "400 x 266 x 120 mm"
+      },
+      {
+        "Peso": "Aprox. 11,4 kg"
+      },
+      {
+        "Entrada/saída": "Tensão de entrada: 100 a 240 VCA; Tensão de saída: 59,92 V; Corrente de saída: 100 A máx"
+      },
+      {
+        "Tempo de carregamento": "Carrega totalmente uma bateria em 9 a 12 minutos (bateria de voo inteligente DB800)"
+      },
+      {
+        "Funções de proteção": "Proteção contra excesso de temperatura, sobretensão, subtensão, curto-circuito e parada do ventilador"
+      },
+      {
+        "Segurança do carregamento": "Proteção do fio CA, proteção do fio de alimentação e proteção do conector de carga"
+      }
+    ]
+  },
+  {
+    "Relé": [
+      {
+        "Modelo": "RL01-65"
+      },
+      {
+        "Dimensões": "120×110×100 mm"
+      },
+      {
+        "Peso": "≤575 g"
+      },
+      {
+        "Tensão de entrada": "9 V 3 A/12 V 2,5 A/15 V 2 A"
+      },
+      {
+        "Consumo de energia": "9 W (SRRC), 12 W (FCC)"
+      },
+      {
+        "Capacidade": "6500 mAh"
+      },
+      {
+        "Tempo de funcionamento": "4 horas"
+      },
+      {
+        "Frequência de funcionamento": "2,4000 a 2,4835 GHz; 5,725 a 5,850 GHz"
+      },
+      {
+        "Distância máxima de transmissão": "5 km (SRRC), 4 km (MIC/KCC/CE), 7 km (FCC)"
+      },
+      {
+        "Tempo de carregamento": "2 horas e 20 minutos (ao usar um carregador DJI padrão)"
+      },
+      {
+        "Classificação IP": "IP55"
+      }
+    ]
+  }
+]
