@@ -319,51 +319,6 @@
     ]
   },
   {
-    "ARMAZENAMENTO": [
-      {
-        "Cartões microSD compatíveis": "Aeronave: Use um cartão de memória com uma classificação de velocidade de V30 ou superior, ou use um cartão de memória da lista de recomendação"
-      },
-      {
-        "Cartões microSD recomendados": [
-          {
-            "Controle remoto (CR)": [
-              "SanDisk Extreme PRO 64 GB V30 A2 microSDXC",
-              "SanDisk High Endurance 64 GB V30 microSDXC",
-              "SanDisk Extreme 128 GB V30 A2 microSDXC",
-              "SanDisk Extreme 256 GB V30 A2 microSDXC",
-              "SanDisk Extreme 512 GB V30 A2 microSDXC",
-              "Lexar 667x 64 GB V30 A2 microSDXC",
-              "Lexar High-Endurance 64 GB V30 microSDXC",
-              "Lexar High-Endurance 128 GB V30 microSDXC",
-              "Lexar 667x 256 GB V30 A2 microSDXC",
-              "Lexar 512 GB V30 A2 microSDXC",
-              "Samsung EVO Plus 64 GB V30 microSDXC",
-              "Samsung EVO Plus 128 GB V30 microSDXC",
-              "Samsung EVO Plus 256 GB V30 microSDXC",
-              "Samsung EVO Plus 512 GB V30 microSDXC",
-              "Kingston Canvas Go! Plus 128 GB V30 A2 microSDXC",
-              "Kingston Canvas React Plus 128 GB V90 A1 microSDXC"
-            ]
-          },
-          {
-            "Aeronave": [
-              "SanDisk Extreme 32 GB V30 A1 microSDHC",
-              "SanDisk Extreme PRO 32 GB V30 A1 microSDHC",
-              "SanDisk Extreme 512 GB V30 A2 microSDXC",
-              "Lexar 1066x 64 GB V30 A2 microSDXC",
-              "Kingston Canvas Go! Plus 64 GB V30 A2 microSDXC",
-              "Kingston Canvas React Plus 64 GB V90 A1 microSDXC",
-              "Kingston Canvas Go! Plus 128 GB V30 A2 microSDXC",
-              "Kingston Canvas React Plus 128 GB V90 A1 microSDXC",
-              "Kingston Canvas React Plus 256 GB V90 A2 microSDXC",
-              "Samsung PRO Plus 256 GB V30 A2 microSDXC"
-            ]
-          }
-        ]
-      }
-    ]
-  },
-  {
     "BATERIA": [
       {
         "Capacidade": "5000 mAh"
